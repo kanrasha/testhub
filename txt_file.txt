@@ -6,7 +6,7 @@ PRELIMINARY STEPS
 -create personal access token for push / pull access
 	GitHub > Settings > Developer Settings > Personal Access Tokens > Generate New
 	copy PAT code, it is only shown once.  Set expiration date
-	(9/1/22 - 11/30/22) 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
+	(9/1/22 - 11/30/22) - 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
 
 HOW TO PUSH AND PULL
 -add files to commit log
