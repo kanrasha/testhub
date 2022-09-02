@@ -1,7 +1,0 @@
-# git hub sync script
-
-cd ~/documents/coding/github/testhub
-git push
-
-# Personal Access Tokens
-# (9/1/22 - 11/30/22) - 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

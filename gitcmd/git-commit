@@ -1,7 +1,0 @@
-# git hub sync script
-
-cd ~/documents/coding/github/testhub
-git commit -am "Committed from automated script"
-
-# TRY:
-# git commit -am print Committed on +"%y-%m-%d"
