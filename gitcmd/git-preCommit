@@ -1,0 +1,4 @@
+# git hub sync script
+
+cd ~/documents/coding/github/testhub
+git add --all
