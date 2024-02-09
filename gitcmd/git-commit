@@ -1,6 +1,6 @@
 # git hub sync script
 
-cd ~/documents/coding/github/testhub
+cd ~/documents/github_repos/testhub
 git commit -am "Committed from automated script"
 
 # TRY:
